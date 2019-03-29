@@ -1,0 +1,158 @@
+
+#body{
+    margin: 30px
+}
+#logo{
+
+    float: left;
+    background:blue;
+    width:30%;
+    height: 250px;
+}
+#banner{
+    background:white;
+    width:70%;
+    height: 250px;
+    float: left;
+    font-size: 100px;
+    
+}
+#nav {
+    background:black;
+    width:98%;
+    height: 70px;
+    clear: both; 
+    padding: 14px 16px;
+}
+#nav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+}
+#left{
+    float: left;
+    background:red;
+    width:20%;
+    height: 600px;
+  
+}
+#left1{
+    background: blue;
+    height: 50%;
+    border: 4px solid;
+    width: 100%;
+}  
+
+#left2{
+    background:peru;
+    height: 50%;
+    width: 100%;
+}  
+
+#right{
+    float: left;
+    background:white;
+    width:20%;
+    height: 600px;
+} 
+
+#main{
+    float: left;
+    background: yellow;
+    width:60%;
+    height: 600px;
+}
+
+#main1{
+    height: 200px;
+    width: 100%;
+}
+#main1a{
+    background: white;
+    width:40%;
+    height: 100%;
+    float: left;
+}
+#main1b{
+    background: white;
+    width:60%;
+    height: 100%;
+    float: left;
+}
+
+
+#footer{
+    clear: both;
+    background:green;
+    width:100%;
+    height: 100px;  
+}
+#main2{
+    height: 387px;
+    width: 100%;
+}
+
+.main2a{
+    float: left;
+    background-color: blueviolet;
+    border:white 5px solid;
+    width: 32%;
+    height: 50%;
+}
+#id{
+    text-align: center;
+    padding: 30px;
+    font-size: 40px;
+    color: blanchedalmond;
+}
+#center{
+    width: 100%;
+    height: 800px;
+}
+#center1a{
+    width: 10%;
+    height: 50%;
+    float: left;
+}
+#center1b{
+    width: 30%;
+    height: 50%;
+    float: left;
+}
+#center1c{
+    width: 20%;
+    height: 50%;
+    float: left;
+}
+#center1d{
+    width: 30%;
+    height: 50%;
+    float: left;
+}
+#center1e{
+    width: 10%;
+    height: 50%;
+    float: left;
+}
+#tap1{
+    clear: both;
+    width: 100%;
+    height: 40px;
+    padding-top: 20px;
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+}
+#noidung{
+    width: 100%;
+    height: 500px;
+    padding-top: 20px;
+    text-align: center;
+    color: blue;
+    text-align: justify;
+    font-size: 20px;
+}
